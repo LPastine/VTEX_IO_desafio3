@@ -1,3 +1,13 @@
-.navbarDesktop {
-  background-color: red;
+.logoLink {
+  width: 75%;
+  padding-right: 0;
+}
+
+.searchIcon {
+  color: white;
+}
+
+.searchBarContainer {
+  margin-left: 0;
+  padding-left: 0;
 }
